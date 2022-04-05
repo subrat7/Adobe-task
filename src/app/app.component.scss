@@ -1,0 +1,10 @@
+$primary-color: #0d6efd;
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1.5px solid $primary-color;
+    padding: 0.6em;
+    color: $primary-color;
+    font-weight: 500;
+}
